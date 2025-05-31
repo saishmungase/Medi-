@@ -1,6 +1,8 @@
 # MediPlus 🩺📸
 A smart prescription scanner that helps users understand medicines instantly by scanning prescriptions using AI and APIs.
 
+- Demo  https://drive.google.com/file/d/1nF70XR7WEkWfoHDKQSLYLTn8PiALMr4-/view 
+
 ## 🚀 Overview
 **MedLens** allows users to upload or take pictures of medical prescriptions. It extracts medicine names using OCR and fetches information like usage, side effects, interactions, etc., via a medicine information API. Designed for individuals seeking clarity on their medication, especially when a doctor is unavailable.
 
