@@ -34,3 +34,29 @@ npm run dev
 cd ../backend
 npm install
 node server.js
+```
+
+## 📈 Scalability & Real-World Impact
+- Scales well for rural & semi-urban users via PWA/mobile-first design
+
+- Helps reduce medicine misuse due to misunderstanding
+
+- Future potential:
+
+     Pharmacy integration
+
+     Health record linking
+
+     Voice-enabled access for elderly users
+
+## ⚠️ Anticipated Challenges
+- OCR errors due to poor image quality
+
+- Variations in brand vs. generic names
+
+- Limitations or latency in free medicine APIs
+
+## 🤝 Contribution
+Open to contributors and ideas! Fork, clone, or create an issue to start contributing.
+
+Made with ❤️ by AIGNITE
